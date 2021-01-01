@@ -1,0 +1,32 @@
+
+.title{
+	color:blue;
+	background-color:red;
+	text-align: center;
+	font-size: 50px}
+.dese{
+	width: 40%;
+	color:red;
+	margin: auto;}
+.site{
+	color: yellow;
+	background-color: black;
+	text-align: center;
+	font-size: 100%}
+a{text-decoration: none;}	
+	
+.header{
+	background-color: black;
+	text-align: center;}
+
+.header ul li a{
+	list-style: none;
+	display: inline-block;
+}
+.header ul li a:hover{
+	color: sky blue;}
+.view{
+	background-color: red;
+	padding:;
+
+}
